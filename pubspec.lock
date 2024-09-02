@@ -1067,6 +1067,14 @@ packages:
       url: "https://mirrors.tuna.tsinghua.edu.cn/dart-pub/"
     source: hosted
     version: "2.0.19"
+  flutter_screen_lock:
+    dependency: "direct main"
+    description:
+      name: flutter_screen_lock
+      sha256: "5c09314747a70d8e1259a1d787f49f4f29d6eae224cd9b2f045e513e8408cbcc"
+      url: "https://mirrors.tuna.tsinghua.edu.cn/dart-pub/"
+    source: hosted
+    version: "9.0.3"
   flutter_screenutil:
     dependency: "direct main"
     description:
